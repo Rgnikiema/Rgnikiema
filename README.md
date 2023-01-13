@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rgnikiema
 - 👀 I’m interested in development economics and data science
 - 🌱 I’m currently learning both
-- 💞️ I’m looking to collaborate on project which will contribute to improuv my skills in machin learning
+- 💞️ I’m looking to collaborate on project which will contribute to improuv my skills in machine learning
 - 📫 How to reach me : richardgilbertnikiema@gmail.com
 
 <!---
